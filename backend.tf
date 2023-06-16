@@ -1,3 +1,4 @@
+/*
 terraform {
   backend "s3" {
     bucket = "primuslearning-app"
@@ -5,3 +6,4 @@ terraform {
     key = "jenkins-server/terraform.tfstate"
   }
 }
+*/
